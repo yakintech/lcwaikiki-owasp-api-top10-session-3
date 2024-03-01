@@ -1,3 +1,14 @@
 OWASP API TOP - 10
 https://owasp.org/API-Security/editions/2023/en/0x11-t10/
 
+
+JWT BOOK
+https://assets.ctfassets.net/2ntc334xpx65/o5J4X472PQUI4ai6cAcqg/13a2611de03b2c8edbd09c3ca14ae86b/jwt-handbook-v0_14_1.pdf?mem=button&mkt_tok=ODU1LVFBSC02OTkAAAGQl-I9cFD1MuuT__fULi57H9-Bg1TRpU2VRfYi6E02OpST62YR5ErohAb2pLbsAX95T8jGzeIaAUTNdBlbLWYW8_qccBFc80r5EjDLvHDT-PAheZAwjQ
+
+
+OWASP TOP 10 Videos
+https://www.youtube.com/playlist?list=PLFlQ4pubLwV9rFqV-FOainvNYai6_oACc
+
+Helmet Package ( for nodejs )
+https://helmetjs.github.io/
+

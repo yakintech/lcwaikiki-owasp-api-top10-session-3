@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div>
+        <label for="">EMail</label>
+        <input type="text" id="email">
+    </div>
+    <div>
+        <label for="">Password</label>
+        <input type="password" id="password">
+    </div>
+    <div>
+        <button id="loginbutton" onclick="login()">Login</button>
+    </div>
+
+</body>
+<script>
+    function login() {
+        var email = document.getElementById('email').value;
+        var password = document.getElementById('password').value;
+        var data = {
+            email: email,
+            password: password
+        }
+        if(email == "admin@mail.com" && password == "admin") {
+            window.location.href = "dashboard.html";
+        } else {
+           console.log('Error');
+        }   
+    }
+</script>
+</html>

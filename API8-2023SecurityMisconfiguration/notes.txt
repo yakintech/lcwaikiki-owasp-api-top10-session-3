@@ -1,0 +1,5 @@
+Cors yapılandırması
+Açık hata mesajları
+Varsayılan hesaplar ve parolalar ( root/root, admin/admin)
+Dış paketlerin ( yazılım ) güvenlik checkleri
+

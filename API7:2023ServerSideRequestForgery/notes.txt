@@ -1,0 +1,1 @@
+SSRD saldırıları genellikle kullanıcı tarafından sağlanan URL'ler üzerinden dış kaynaklara istek yaptığı durumlarda gerçekleşir.
