@@ -1,0 +1,1 @@
+Sadece kimlik doğrulama işlemlerinin kendisiyle ilgilenir. Yetkilendirme mekanizması değil. Bir API'nin kimlik doğrulama mekanizmalarının yanlış uygulanması sonucu ortaya çıkan zaafiyet.

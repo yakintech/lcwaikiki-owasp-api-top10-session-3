@@ -1,0 +1,9 @@
+
+
+Rate Limiting - Kullanıcı başına ( IP başına ) istek sayısını sınırlandırmak!
+Kota Yönetimi
+Validation Kontrolleri
+
+
+
+Bir API'nin kaynaklarının ( CPU, Bellek, Disk Alanı vbç.) aşarı yavaşlatmasına sebep olan zaafiyet
