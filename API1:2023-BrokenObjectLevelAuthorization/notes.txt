@@ -1,0 +1,2 @@
+Broken Object Level Authoraziton  (BOLA)
+Kullanıcın yetkisi olmayan verilere veya fonksiyonlara erişiminin sağlanması.
